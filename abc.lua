@@ -1,2 +1,0 @@
-rtertertertertedffgd
-mendelsk_YT
