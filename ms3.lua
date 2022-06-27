@@ -1,5 +1,5 @@
 users = {
-  ["VIP"] = "rtertertertertedffgd",
-  ["VIP"] = "mendelsk_YT",
-  ["VIP"] = "Ghou1ishG0re",
+  "rtertertertertedffgd",
+  "mendelsk_YT",
+  "Ghou1ishG0re",
   }
